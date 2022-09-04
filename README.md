@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henley @Henngz 
 - 👀 I’m interested in making full-stack project, playing ping-pong and skating.
-- 🌱 I’m currently learning C#, Java, HTML,CSS, JS
+- 🌱 I’m currently learning C#, Java,PHP, HTML,CSS, JS
 - 📫 My email: zhuyh2018@gmail.com
 
 <!---
