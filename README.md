@@ -1,5 +1,4 @@
-- Hi, I'm Henley 👋
-- I'm a Software Developer based in Canada with experience in C#, .NET, and React.
+- Hi👋 I'm a Software Developer based in Canada with experience in C#, .NET, and React.
 - Most of my work is with C#/.NET on the backend and React on the frontend. 
 - Currently exploring more about full-stack development and cloud services.
 - Always learning, always building 🚀
